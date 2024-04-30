@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👋 Eelfare is a load testing platform. Eelfare aims to provide a fast and precise load testing tool to help users assess the performance of their systems under high load.
+
+🚀 It enables users to simulate high-concurrency scenarios effortlessly, identifying system bottlenecks for optimization 📫.
+
 <!--
 **eelfare/eelfare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
